@@ -1,0 +1,6 @@
+Was Trying to convert Word jumble game to a web app with flask. 
+This task is harder than i thought and flask is not as easy as it seems from the outside.
+Its pretty confusing if you're not sure what you're doing. 
+I posted a question to the flask subreddit, hopefully someone can help me. I'm not sure where to begin with this honestly. 
+
+It might just be easier to build the app with JS rather than figure out flask. Flask is good for forms but not so good with static pages.
